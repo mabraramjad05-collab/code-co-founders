@@ -1,3 +1,5 @@
+"use client";
+
 import { motion } from "framer-motion";
 import { Brain, Target, Zap, Layers, MessageSquare, Rocket } from "lucide-react";
 
