@@ -10,7 +10,7 @@ import FAQSection from "@/components/FAQSection";
 import ContactCTA from "@/components/ContactCTA";
 import Footer from "@/components/Footer";
 
-const Index = () => {
+export default function Home() {
   return (
     <div className="min-h-screen bg-background text-foreground">
       <Navbar />
@@ -26,6 +26,4 @@ const Index = () => {
       <Footer />
     </div>
   );
-};
-
-export default Index;
+}

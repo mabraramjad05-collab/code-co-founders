@@ -1,3 +1,5 @@
+"use client";
+
 import { motion } from "framer-motion";
 import { Code2, Smartphone, Palette, TrendingUp } from "lucide-react";
 

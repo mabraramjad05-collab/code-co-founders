@@ -1,3 +1,5 @@
+"use client";
+
 import { motion } from "framer-motion";
 import { Rocket, BarChart3, Globe, Smartphone, Settings } from "lucide-react";
 
